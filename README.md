@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Ecommerce.png" alt="Ecommerce Project Preview" width="600">
+</p>
 <h1 align="center">📦 E-Commerce Sales & Profit Analysis</h1>
 
 <p align="center">
