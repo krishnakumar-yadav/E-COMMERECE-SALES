@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Ecommerce.png" alt="Ecommerce Project Preview" width="600">
+  <img src="Ecommerce.png" alt="Ecommerce Project Preview" width="800">
 </p>
 <h1 align="center">📦 E-Commerce Sales & Profit Analysis</h1>
 
